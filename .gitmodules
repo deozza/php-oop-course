@@ -1,0 +1,6 @@
+[submodule "php-framework"]
+	path = php-framework
+	url = https://github.com/deozza/php-framework
+[submodule "php-oop-exercices"]
+	path = php-oop-exercices
+	url = https://github.com/deozza/php-oop-exercices
